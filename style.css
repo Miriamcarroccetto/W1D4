@@ -1,0 +1,122 @@
+#logoHead {
+    width: auto;
+    background-color: rgb(0, 0, 83);
+    margin-left: 0%;
+    margin-right: 0%;
+    
+}
+
+#logoh {
+    width: 7em;
+   
+}
+
+#menu {
+    width: auto;
+    background-color: rgb(2, 2, 102);
+    margin-left: 0em;
+    margin-right: 0em;
+    
+}
+.menu {
+    padding-left: 0.6em;
+    padding-right: 0.6em;
+    display: inline;
+    font-size: 0.8em;
+    color: white;
+}
+
+
+main {
+    background-color: rgb(221, 210, 210);
+    width: auto;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    margin-left: 0em;
+    margin-right: 0em;
+    margin-top: 0em;
+    
+    
+}
+#articleOne {
+    width: auto;
+    background-color: rgb(255, 115, 0);
+    color: white;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-size: 1em;
+}
+
+#articleTwo {
+    background-image: url(/img/bg-image.png);
+    padding-bottom: 3em;
+    padding-top: 3em;
+}
+
+.articleTwo {
+    color: white;
+    text-align: center;
+    
+}
+
+#articleThree {
+    background-color: white;
+    margin-top: 1m;
+}
+
+.articleThree {
+    width: 19em;
+    padding-left: 3em;
+    border-radius: 1em;
+    margin-bottom: 1em;
+
+}
+
+#articleFour {
+    padding-top: 2em;
+
+}
+
+.cheerGame {
+    width: 91em;
+    
+
+}
+
+.playSound {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    width: auto;
+
+}
+
+#link {
+    width: auto;
+    background-color:  rgb(2, 2, 102);
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+
+}
+
+#logofooter {
+    width: auto;
+    background-color:rgb(0, 0, 83) ;
+}
+
+#linkFont {
+    color: white;
+    font-size: smaller;
+
+}
+
+#logof{
+    width: 7em;
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
